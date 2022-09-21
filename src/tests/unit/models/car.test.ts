@@ -1,5 +1,4 @@
 import * as sinon from 'sinon';
-import chai from 'chai';
 import { expect } from 'chai';
 import CarModel from '../../../models/Car';
 import { Model } from 'mongoose';
